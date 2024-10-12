@@ -1,3 +1,5 @@
+-- Data Analysis: Inferences on Customer Churn based on demographics, tenure, contract-type, tenure and monthly charges
+
 SELECT * FROM customer_churn_data;
 
 -- Customer Demographics and Churn
